@@ -92,7 +92,8 @@ body{
 .hero__container{
     display: flex;
     height: calc(100vh-70px);
-    align-items: center;
+    align-items: flex-start;
+    gap: 2rem;
     color: #fff;
 
 }
@@ -104,8 +105,9 @@ body{
 
 .hero__title{
     font-size: 3.2rem;
-    font-weight: 300;
-    margin: 15px 0;
+    font-weight: 300;   
+    margin: 0 0 15px;
+}
 }
 
 .hero__subtitle{
