@@ -108,7 +108,6 @@ body{
     font-weight: 300;   
     margin: 0 0 15px;
 }
-}
 
 .hero__subtitle{
     font-size: 2rem;
@@ -260,6 +259,7 @@ body{
     transform: translateX(100%);
     cursor: pointer;
     transition: 300ms ease-in-out;
+    pointer-events: none;
 }
 
 .projects__item:hover .projects__hover{
