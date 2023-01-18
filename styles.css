@@ -284,8 +284,8 @@ body{
 .testimony__item{
     width: 95%;
     margin: 0 auto;
-    background: var(--color-secundary);
-    box-shadow: 0 8px 10px rgba(66,66,66, .2);
+    background-color:rgba(7, 122, 245, 0.895); 
+    box-shadow: 0 8px 10px rgba(108, 110, 113, 0.895);
     border-radius: 7px;
     padding: 30px 25px;
     margin-bottom: 50px;
